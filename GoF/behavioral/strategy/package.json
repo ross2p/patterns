@@ -1,0 +1,14 @@
+{
+  "name": "strategy",
+  "version": "1.0.0",
+  "description": "Strategy design pattern demo",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node payment-strategy.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.0.0"
+  }
+}
