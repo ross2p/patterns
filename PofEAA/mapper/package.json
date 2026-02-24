@@ -1,0 +1,14 @@
+{
+  "name": "mapper-pattern",
+  "version": "1.0.0",
+  "description": "Data Mapper design pattern demo",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node user-mapper.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.0.0"
+  }
+}
